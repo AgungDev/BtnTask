@@ -1,5 +1,13 @@
 # BtnTask
 
+```xml
+<fun5i.module.radiobtndaily.RadioBtnDaily
+    android:padding="10dp"
+    android:id="@+id/cb"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+```
+
 ```java
 RadioBtnDaily checkBox = findViewById(R.id.cb);
 checkBox.setText("Contoh Task On Progres");
