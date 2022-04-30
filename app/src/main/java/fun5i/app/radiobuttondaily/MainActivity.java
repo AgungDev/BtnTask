@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 // or
-                if (checkBox.isChecked() == checkBox.NANTI){
+                if (checkBox.isChecked() == RadioBtnDaily.NANTI){
                     // code hare
                 }
             }
