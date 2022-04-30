@@ -11,8 +11,8 @@
         android:layout_marginTop="0dp"
         android:layout_marginLeft="1dp"
         android:visibility="gone"
-        android:layout_width="25dp"
-        android:layout_height="25dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
         android:id="@+id/check"
         android:src="@drawable/check"/>
 
@@ -20,8 +20,8 @@
         android:layout_marginTop="0dp"
         android:layout_marginLeft="1dp"
         android:visibility="gone"
-        android:layout_width="25dp"
-        android:layout_height="25dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
         android:id="@+id/close"
         android:src="@drawable/close"/>
 
@@ -29,8 +29,8 @@
         android:layout_marginTop="0dp"
         android:layout_marginLeft="1dp"
         android:visibility="gone"
-        android:layout_width="25dp"
-        android:layout_height="25dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
         android:id="@+id/nanti"
         android:src="@drawable/nanti"/>
 

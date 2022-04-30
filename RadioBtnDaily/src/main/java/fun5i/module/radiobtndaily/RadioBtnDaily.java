@@ -130,7 +130,7 @@ public class RadioBtnDaily extends FrameLayout {
             public void run() {
                 ObjectAnimator n,cl,ch,tt;
                 int marginA = cb.getWidth();
-                int marginB = (marginA/2)+marginA/5;
+                int marginB = (marginA);
                 n = ObjectAnimator.ofFloat(nanti, "x", marginA);
                 cl = ObjectAnimator.ofFloat(close, "x", marginA);
                 ch = ObjectAnimator.ofFloat(check, "x", marginA);
